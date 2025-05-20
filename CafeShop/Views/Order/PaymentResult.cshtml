@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Kết quả thanh toán";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-header bg-@(ViewBag.PaymentSuccess ? "success" : "danger") text-white">
+                    <h4 class="mb-0">@(ViewBag.PaymentSuccess ? "Thanh toán thành công" : "Thanh toán thất bại")</h4>
+                </div>
+                <div class="card-body">
+                    @if (ViewBag.PaymentSuccess)
+                    {
+                        <div class="text-center mb-4">
+                            <i class="bi bi-check-circle-fill text-success" style="font-size: 5rem;"></i>
+                        </div>
+                        <h5 class="text-center mb-4">Cảm ơn bạn đã đặt hàng!</h5>
+                        <p class="text-center">Đơn hàng của bạn đã được thanh toán thành công và đang được xử lý.</p>
+                        <p class="text-center">Bạn có thể theo dõi trạng thái đơn hàng trong mục "Đơn hàng của tôi".</p>
+                    }
+                    else
+                    {
+                        <div class="text-center mb-4">
+                            <i class="bi bi-x-circle-fill text-danger" style="font-size: 5rem;"></i>
+                        </div>
+                        <h5 class="text-center mb-4">Thanh toán không thành công!</h5>
+                        <p class="text-center">@ViewBag.Message</p>
+                        <p class="text-center">Vui lòng thử lại hoặc chọn phương thức thanh toán khác.</p>
+                    }
+
+                    <div class="text-center mt-4">
+                        <a href="/" class="btn btn-primary">Quay lại trang chủ</a>
+                        <a href="/Order" class="btn btn-outline-primary ml-2">Xem đơn hàng của tôi</a>
+                        @if (ViewBag.PaymentSuccess && ViewBag.OrderId > 0)
+                        {
+                            <a href="/Order/PrintInvoice?orderId=@ViewBag.OrderId" class="btn btn-success ml-2" target="_blank">
+                                <i class="bi bi-printer"></i> In hóa đơn
+                            </a>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
