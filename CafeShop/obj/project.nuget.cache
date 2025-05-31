@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I8thNDhxdkM=",
+  "dgSpecHash": "3/gfdvLQR8M=",
   "success": true,
-  "projectFilePath": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\CafeShop.csproj",
+  "projectFilePath": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\CafeShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\closedxml\\0.104.2\\closedxml.0.104.2.nupkg.sha512",

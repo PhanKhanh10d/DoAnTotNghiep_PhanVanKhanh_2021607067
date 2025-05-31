@@ -11997,11 +11997,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\CafeShop.csproj",
+      "projectUniqueName": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\CafeShop.csproj",
       "projectName": "CafeShop",
-      "projectPath": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\CafeShop.csproj",
+      "projectPath": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\CafeShop.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\obj\\",
+      "outputPath": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

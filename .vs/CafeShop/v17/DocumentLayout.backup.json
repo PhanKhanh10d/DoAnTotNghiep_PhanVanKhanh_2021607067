@@ -1,188 +1,232 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\",
+  "WorkspaceRootPath": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\config\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\config\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\views\\order\\paymentresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\views\\order\\paymentresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\wwwroot\\js\\client\\shop.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\wwwroot\\js\\client\\shop.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\services\\pdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\services\\pdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\wwwroot\\js\\client\\cart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\wwwroot\\js\\client\\cart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\repository\\orderdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\repository\\orderdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\views\\order\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\views\\order\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\config\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\models\\orderdetailstopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\models\\orderdetailstopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\repository\\orderdetailstoppingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\repository\\orderdetailstoppingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\config\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\config\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\views\\order\\paymentresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\views\\order\\paymentresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\services\\pdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\services\\pdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\wwwroot\\js\\client\\cart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\wwwroot\\js\\client\\cart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\config\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\config\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\config\\vnpayconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\config\\vnpayconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\config\\vnpayconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\areas\\admin\\views\\goodsissue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\areas\\admin\\views\\goodsissue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\areas\\admin\\views\\goodsissue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\config\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\config\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\config\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\views\\order\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\views\\order\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\models\\goodsissue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\models\\goodsissue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\models\\goodsissue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\models\\goodsreceiptdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\models\\goodsreceiptdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\models\\goodsreceiptdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\areas\\admin\\controllers\\goodsreceiptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\areas\\admin\\controllers\\goodsreceiptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\areas\\admin\\controllers\\goodsreceiptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\wwwroot\\js\\admin\\goods_receipt.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\wwwroot\\js\\admin\\goods_receipt.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\wwwroot\\js\\admin\\goods_receipt.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\areas\\admin\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\areas\\admin\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\areas\\admin\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\areas\\admin\\views\\account\\actionresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\areas\\admin\\views\\account\\actionresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\areas\\admin\\views\\account\\actionresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\config\\excel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\config\\excel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\config\\excel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\repository\\carttoppingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\repository\\carttoppingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\repository\\carttoppingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\irepository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\irepository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\irepository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\config\\loaddatafromsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\config\\loaddatafromsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\config\\loaddatafromsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\areas\\admin\\views\\supplier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\areas\\admin\\views\\supplier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\areas\\admin\\views\\supplier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\config\\textutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\config\\textutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\config\\textutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\areas\\admin\\views\\unit\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\areas\\admin\\views\\unit\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\areas\\admin\\views\\unit\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\demomoi\\doantn_phanvankhanh (1)\\doantn_phanvankhanh (1)\\doantn_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|e:\\doantotnghiep_phanvankhanh\\datn_pvk_2021607067\\cafeshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{79254D94-932D-49F0-8532-FDFC9BF1CA0F}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -193,15 +237,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 32,
               "Title": "GoodsReceiptController.cs",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Controllers\\GoodsReceiptController.cs",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Controllers\\GoodsReceiptController.cs",
               "RelativeDocumentMoniker": "CafeShop\\Areas\\Admin\\Controllers\\GoodsReceiptController.cs",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Controllers\\GoodsReceiptController.cs",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Controllers\\GoodsReceiptController.cs",
               "RelativeToolTip": "CafeShop\\Areas\\Admin\\Controllers\\GoodsReceiptController.cs",
               "ViewState": "AgIAAL0AAAAAAAAAAAAowJgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -210,11 +254,144 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "shop.js",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\wwwroot\\js\\Client\\shop.js",
+              "RelativeDocumentMoniker": "CafeShop\\wwwroot\\js\\Client\\shop.js",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\wwwroot\\js\\Client\\shop.js",
+              "RelativeToolTip": "CafeShop\\wwwroot\\js\\Client\\shop.js",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-24T15:13:42.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "CafeShop\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "CafeShop\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T15:13:23.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Controllers\\ShopController.cs",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "CafeShop\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:13:18.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Controllers\\OrderController.cs",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "CafeShop\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAkwFwBAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T01:45:02.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderDetailsRepository.cs",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Repository\\OrderDetailsRepository.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Repository\\OrderDetailsRepository.cs",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Repository\\OrderDetailsRepository.cs",
+              "RelativeToolTip": "CafeShop\\Repository\\OrderDetailsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T07:48:32.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Models\\Order.cs",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Models\\Order.cs",
+              "RelativeToolTip": "CafeShop\\Models\\Order.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T01:48:18.885Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "CafeShop\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "CafeShop\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T08:08:05.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "CafeShop\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:08:46.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CafeShop\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T14:30:50.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderDetails.cshtml",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Order\\OrderDetails.cshtml",
+              "RelativeDocumentMoniker": "CafeShop\\Views\\Order\\OrderDetails.cshtml",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Order\\OrderDetails.cshtml",
+              "RelativeToolTip": "CafeShop\\Views\\Order\\OrderDetails.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAIAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T01:54:27.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "CafeShop\\Views\\Order\\Index.cshtml",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "CafeShop\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T07:35:16.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "OrderViewModel.cs",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Models\\OrderViewModel.cs",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Models\\OrderViewModel.cs",
               "RelativeDocumentMoniker": "CafeShop\\Models\\OrderViewModel.cs",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Models\\OrderViewModel.cs",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Models\\OrderViewModel.cs",
               "RelativeToolTip": "CafeShop\\Models\\OrderViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -222,47 +399,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "VnPayLibrary.cs",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Config\\VnPayLibrary.cs",
-              "RelativeDocumentMoniker": "CafeShop\\Config\\VnPayLibrary.cs",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Config\\VnPayLibrary.cs",
-              "RelativeToolTip": "CafeShop\\Config\\VnPayLibrary.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAiwGYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Repository\\OrderRepository.cs",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "CafeShop\\Repository\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T01:46:26.715Z"
+              "WhenOpened": "2025-05-21T07:48:39.403Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "CafeShop\\Controllers\\OrderController.cs",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "CafeShop\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAAKcBAAAAAAAAAAAmwLcBAAAVAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Models\\OrderDetail.cs",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "CafeShop\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T01:45:02.449Z"
+              "WhenOpened": "2025-05-21T07:49:02.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PaymentResult.cshtml",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Order\\PaymentResult.cshtml",
-              "RelativeDocumentMoniker": "CafeShop\\Views\\Order\\PaymentResult.cshtml",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Order\\PaymentResult.cshtml",
-              "RelativeToolTip": "CafeShop\\Views\\Order\\PaymentResult.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T01:54:15.013Z"
+              "DocumentIndex": 12,
+              "Title": "OrderDetailsTopping.cs",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Models\\OrderDetailsTopping.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Models\\OrderDetailsTopping.cs",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Models\\OrderDetailsTopping.cs",
+              "RelativeToolTip": "CafeShop\\Models\\OrderDetailsTopping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T07:49:07.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
+              "Title": "OrderDetailsToppingRepository.cs",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Repository\\OrderDetailsToppingRepository.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Repository\\OrderDetailsToppingRepository.cs",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Repository\\OrderDetailsToppingRepository.cs",
+              "RelativeToolTip": "CafeShop\\Repository\\OrderDetailsToppingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T07:48:36.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CafeShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "CafeShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAFoAAAAAAAAAAAAAAOwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -270,11 +459,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 20,
               "Title": "cart.js",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\wwwroot\\js\\Client\\cart.js",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\wwwroot\\js\\Client\\cart.js",
               "RelativeDocumentMoniker": "CafeShop\\wwwroot\\js\\Client\\cart.js",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\wwwroot\\js\\Client\\cart.js",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\wwwroot\\js\\Client\\cart.js",
               "RelativeToolTip": "CafeShop\\wwwroot\\js\\Client\\cart.js",
               "ViewState": "AgIAACEBAAAAAAAAAADwv0cBAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -282,24 +471,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SQLHelper.cs",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Config\\SQLHelper.cs",
-              "RelativeDocumentMoniker": "CafeShop\\Config\\SQLHelper.cs",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Config\\SQLHelper.cs",
-              "RelativeToolTip": "CafeShop\\Config\\SQLHelper.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAASwGYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T13:53:01.291Z",
-              "EditorCaption": ""
+              "DocumentIndex": 18,
+              "Title": "PaymentResult.cshtml",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Order\\PaymentResult.cshtml",
+              "RelativeDocumentMoniker": "CafeShop\\Views\\Order\\PaymentResult.cshtml",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Order\\PaymentResult.cshtml",
+              "RelativeToolTip": "CafeShop\\Views\\Order\\PaymentResult.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T01:54:15.013Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 16,
+              "Title": "SQLHelper.cs",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Config\\SQLHelper.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Config\\SQLHelper.cs",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Config\\SQLHelper.cs",
+              "RelativeToolTip": "CafeShop\\Config\\SQLHelper.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAASwEkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:53:01.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "CafeShop\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "CafeShop\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T02:01:40.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "VnPayLibrary.cs",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Config\\VnPayLibrary.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Config\\VnPayLibrary.cs",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Config\\VnPayLibrary.cs",
+              "RelativeToolTip": "CafeShop\\Config\\VnPayLibrary.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAiwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T01:46:26.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "PdfService.cs",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Services\\PdfService.cs",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Services\\PdfService.cs",
               "RelativeDocumentMoniker": "CafeShop\\Services\\PdfService.cs",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Services\\PdfService.cs",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Services\\PdfService.cs",
               "RelativeToolTip": "CafeShop\\Services\\PdfService.cs",
               "ViewState": "AgIAAHMAAAAAAAAAAAAiwJIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -307,11 +531,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 23,
               "Title": "VNPayConfig.cs",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Config\\VNPayConfig.cs",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Config\\VNPayConfig.cs",
               "RelativeDocumentMoniker": "CafeShop\\Config\\VNPayConfig.cs",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Config\\VNPayConfig.cs",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Config\\VNPayConfig.cs",
               "RelativeToolTip": "CafeShop\\Config\\VNPayConfig.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwAoAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -319,11 +543,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 24,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\GoodsIssue\\Index.cshtml",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\GoodsIssue\\Index.cshtml",
               "RelativeDocumentMoniker": "CafeShop\\Areas\\Admin\\Views\\GoodsIssue\\Index.cshtml",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\GoodsIssue\\Index.cshtml",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\GoodsIssue\\Index.cshtml",
               "RelativeToolTip": "CafeShop\\Areas\\Admin\\Views\\GoodsIssue\\Index.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -331,7 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 26,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -341,11 +565,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 25,
               "Title": "Config.cs",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Config\\Config.cs",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Config\\Config.cs",
               "RelativeDocumentMoniker": "CafeShop\\Config\\Config.cs",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Config\\Config.cs",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Config\\Config.cs",
               "RelativeToolTip": "CafeShop\\Config\\Config.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -353,35 +577,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Cart\\Index.cshtml",
-              "RelativeDocumentMoniker": "CafeShop\\Views\\Cart\\Index.cshtml",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Cart\\Index.cshtml",
-              "RelativeToolTip": "CafeShop\\Views\\Cart\\Index.cshtml",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEsAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T02:01:40.13Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "OrderDetails.cshtml",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Order\\OrderDetails.cshtml",
-              "RelativeDocumentMoniker": "CafeShop\\Views\\Order\\OrderDetails.cshtml",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Order\\OrderDetails.cshtml",
-              "RelativeToolTip": "CafeShop\\Views\\Order\\OrderDetails.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T01:54:27.078Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 27,
               "Title": "Material.cs",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Models\\Material.cs",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Models\\Material.cs",
               "RelativeDocumentMoniker": "CafeShop\\Models\\Material.cs",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Models\\Material.cs",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Models\\Material.cs",
               "RelativeToolTip": "CafeShop\\Models\\Material.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -389,23 +589,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Order.cs",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "CafeShop\\Models\\Order.cs",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Models\\Order.cs",
-              "RelativeToolTip": "CafeShop\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T01:48:18.885Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 29,
               "Title": "GoodsIssue.cs",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Models\\GoodsIssue.cs",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Models\\GoodsIssue.cs",
               "RelativeDocumentMoniker": "CafeShop\\Models\\GoodsIssue.cs",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Models\\GoodsIssue.cs",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Models\\GoodsIssue.cs",
               "RelativeToolTip": "CafeShop\\Models\\GoodsIssue.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -413,11 +601,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 30,
               "Title": "GoodsReceiptDetail.cs",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Models\\GoodsReceiptDetail.cs",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Models\\GoodsReceiptDetail.cs",
               "RelativeDocumentMoniker": "CafeShop\\Models\\GoodsReceiptDetail.cs",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Models\\GoodsReceiptDetail.cs",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Models\\GoodsReceiptDetail.cs",
               "RelativeToolTip": "CafeShop\\Models\\GoodsReceiptDetail.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -425,11 +613,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 28,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Models\\ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Models\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "CafeShop\\Models\\ApplicationDbContext.cs",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Models\\ApplicationDbContext.cs",
               "RelativeToolTip": "CafeShop\\Models\\ApplicationDbContext.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAuwC4AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -437,11 +625,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 31,
               "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\appsettings.json",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\appsettings.json",
               "RelativeDocumentMoniker": "CafeShop\\appsettings.json",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\appsettings.json",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\appsettings.json",
               "RelativeToolTip": "CafeShop\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -449,11 +637,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 34,
               "Title": "goods_receipt.js",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\wwwroot\\js\\Admin\\goods_receipt.js",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\wwwroot\\js\\Admin\\goods_receipt.js",
               "RelativeDocumentMoniker": "CafeShop\\wwwroot\\js\\Admin\\goods_receipt.js",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\wwwroot\\js\\Admin\\goods_receipt.js",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\wwwroot\\js\\Admin\\goods_receipt.js",
               "RelativeToolTip": "CafeShop\\wwwroot\\js\\Admin\\goods_receipt.js",
               "ViewState": "AgIAAHUBAAAAAAAAAAAYwKABAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -461,11 +649,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 35,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CafeShop\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "CafeShop\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAK0AAAAAAAAAAAAmwMgAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -473,11 +661,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 33,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "CafeShop\\Areas\\Admin\\Controllers\\AccountController.cs",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Controllers\\AccountController.cs",
               "RelativeToolTip": "CafeShop\\Areas\\Admin\\Controllers\\AccountController.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAkwE4AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -485,11 +673,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 36,
               "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "CafeShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeToolTip": "CafeShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -497,11 +685,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 39,
               "Title": "actionResult.cshtml",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\Account\\actionResult.cshtml",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\Account\\actionResult.cshtml",
               "RelativeDocumentMoniker": "CafeShop\\Areas\\Admin\\Views\\Account\\actionResult.cshtml",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\Account\\actionResult.cshtml",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\Account\\actionResult.cshtml",
               "RelativeToolTip": "CafeShop\\Areas\\Admin\\Views\\Account\\actionResult.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -509,11 +697,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 38,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\Account\\Index.cshtml",
               "RelativeDocumentMoniker": "CafeShop\\Areas\\Admin\\Views\\Account\\Index.cshtml",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\Account\\Index.cshtml",
               "RelativeToolTip": "CafeShop\\Areas\\Admin\\Views\\Account\\Index.cshtml",
               "ViewState": "AgIAAMYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -521,11 +709,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 37,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "CafeShop\\Views\\_ViewImports.cshtml",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "CafeShop\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -533,11 +721,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 41,
               "Title": "Error.cshtml",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Shared\\Error.cshtml",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "CafeShop\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Shared\\Error.cshtml",
               "RelativeToolTip": "CafeShop\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -545,11 +733,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 40,
               "Title": "Excel.cs",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Config\\Excel.cs",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Config\\Excel.cs",
               "RelativeDocumentMoniker": "CafeShop\\Config\\Excel.cs",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Config\\Excel.cs",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Config\\Excel.cs",
               "RelativeToolTip": "CafeShop\\Config\\Excel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -557,11 +745,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 42,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "CafeShop\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "CafeShop\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -569,11 +757,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 43,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "CafeShop\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "CafeShop\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -581,11 +769,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 44,
               "Title": "CartRepository.cs",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Repository\\CartRepository.cs",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Repository\\CartRepository.cs",
               "RelativeDocumentMoniker": "CafeShop\\Repository\\CartRepository.cs",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Repository\\CartRepository.cs",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Repository\\CartRepository.cs",
               "RelativeToolTip": "CafeShop\\Repository\\CartRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -593,11 +781,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 48,
               "Title": "LoadDataFromSP.cs",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Config\\LoadDataFromSP.cs",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Config\\LoadDataFromSP.cs",
               "RelativeDocumentMoniker": "CafeShop\\Config\\LoadDataFromSP.cs",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Config\\LoadDataFromSP.cs",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Config\\LoadDataFromSP.cs",
               "RelativeToolTip": "CafeShop\\Config\\LoadDataFromSP.cs",
               "ViewState": "AgIAADwAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -605,11 +793,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 47,
               "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\IRepository\\IGenericRepository.cs",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\IRepository\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "CafeShop\\IRepository\\IGenericRepository.cs",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\IRepository\\IGenericRepository.cs",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\IRepository\\IGenericRepository.cs",
               "RelativeToolTip": "CafeShop\\IRepository\\IGenericRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -617,11 +805,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 46,
               "Title": "AccountRepository.cs",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Repository\\AccountRepository.cs",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Repository\\AccountRepository.cs",
               "RelativeDocumentMoniker": "CafeShop\\Repository\\AccountRepository.cs",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Repository\\AccountRepository.cs",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Repository\\AccountRepository.cs",
               "RelativeToolTip": "CafeShop\\Repository\\AccountRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -629,11 +817,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 45,
               "Title": "CartToppingRepository.cs",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Repository\\CartToppingRepository.cs",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Repository\\CartToppingRepository.cs",
               "RelativeDocumentMoniker": "CafeShop\\Repository\\CartToppingRepository.cs",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Repository\\CartToppingRepository.cs",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Repository\\CartToppingRepository.cs",
               "RelativeToolTip": "CafeShop\\Repository\\CartToppingRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -641,23 +829,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "CafeShop\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "CafeShop\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T14:30:50.402Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 49,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\Supplier\\Index.cshtml",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\Supplier\\Index.cshtml",
               "RelativeDocumentMoniker": "CafeShop\\Areas\\Admin\\Views\\Supplier\\Index.cshtml",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\Supplier\\Index.cshtml",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\Supplier\\Index.cshtml",
               "RelativeToolTip": "CafeShop\\Areas\\Admin\\Views\\Supplier\\Index.cshtml",
               "ViewState": "AgIAAGMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -665,11 +841,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 50,
               "Title": "TextUtils.cs",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Config\\TextUtils.cs",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Config\\TextUtils.cs",
               "RelativeDocumentMoniker": "CafeShop\\Config\\TextUtils.cs",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Config\\TextUtils.cs",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Config\\TextUtils.cs",
               "RelativeToolTip": "CafeShop\\Config\\TextUtils.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -677,11 +853,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 51,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\About\\Index.cshtml",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\About\\Index.cshtml",
               "RelativeDocumentMoniker": "CafeShop\\Views\\About\\Index.cshtml",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\About\\Index.cshtml",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\About\\Index.cshtml",
               "RelativeToolTip": "CafeShop\\Views\\About\\Index.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -689,11 +865,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 52,
               "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Shared\\_Layout.cshtml.css",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "CafeShop\\Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeToolTip": "CafeShop\\Views\\Shared\\_Layout.cshtml.css",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -701,11 +877,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 53,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "CafeShop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "CafeShop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -713,11 +889,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 54,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\Unit\\Index.cshtml",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\Unit\\Index.cshtml",
               "RelativeDocumentMoniker": "CafeShop\\Areas\\Admin\\Views\\Unit\\Index.cshtml",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\Unit\\Index.cshtml",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Areas\\Admin\\Views\\Unit\\Index.cshtml",
               "RelativeToolTip": "CafeShop\\Areas\\Admin\\Views\\Unit\\Index.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -725,11 +901,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 55,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Account\\Register.cshtml",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "CafeShop\\Views\\Account\\Register.cshtml",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Account\\Register.cshtml",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Account\\Register.cshtml",
               "RelativeToolTip": "CafeShop\\Views\\Account\\Register.cshtml",
               "ViewState": "AgIAAEsAAAAAAAAAAAAAAGYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -737,11 +913,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 56,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "CafeShop\\Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\DemoMOi\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh (1)\\DoAnTN_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\DoAnTotNghiep_PhanVanKhanh\\DATN_PVK_2021607067\\CafeShop\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "CafeShop\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAB0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
